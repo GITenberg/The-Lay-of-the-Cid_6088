@@ -1,0 +1,29 @@
+_repo: The-Lay-of-the-Cid_6088
+contributor:
+  translators:
+  - agent_name: Rose, R. Selden (Robert Selden)
+    alias: Rose, Robert Selden
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '8916'
+    url: http://www.gutenberg.org/2009/agents/8916
+  - agent_name: Bacon, Leonard
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '1946'
+    url: http://www.gutenberg.org/2009/agents/1946
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Bacon_%28poet%29
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cid, approximately 1043-1099 -- Poetry'
+- !lcc 'PQ'
+title: The Lay of the Cid
+url: http://www.gutenberg.org/ebooks/6088
