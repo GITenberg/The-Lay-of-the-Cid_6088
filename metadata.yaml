@@ -1,5 +1,5 @@
 _repo: The-Lay-of-the-Cid_6088
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Rose, R. Selden (Robert Selden)
@@ -14,7 +14,12 @@ contributor:
     gutenberg_agent_id: '1946'
     url: http://www.gutenberg.org/2009/agents/1946
     wikipedia: http://en.wikipedia.org/wiki/Leonard_Bacon_%28poet%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6088#The-Lay-of-the-Cid
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
