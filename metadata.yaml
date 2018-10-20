@@ -1,5 +1,5 @@
 _repo: The-Lay-of-the-Cid_6088
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translators:
   - agent_name: Rose, R. Selden (Robert Selden)
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Cid, approximately 1043-1099 -- Poetry'
 - !lcc 'PQ'
+- GITenberg
 title: The Lay of the Cid
 url: http://www.gutenberg.org/ebooks/6088
